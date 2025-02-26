@@ -15,7 +15,7 @@
 
 ```sh
 git clone https://github.com/anzalass/test-intitek
-cd test intitek
+cd test-intitek
 ```
 
 ---
